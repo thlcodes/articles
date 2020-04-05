@@ -1,0 +1,18 @@
+{
+  "name": "tholcodes' articles",
+  "version": "1.0.0",
+  "description": "Here lie my articles.",
+  "repository": "thlcodes/articles",
+  "private": true,
+  "keywords": [
+    "dev.to",
+    "blog",
+    "articles",
+    "template"
+  ],
+  "author": {
+    "name": "Thomas Liebeskind",
+    "url": "https://thl.codes"
+  },
+  "license": "MIT"
+}
