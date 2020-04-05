@@ -8,6 +8,18 @@ canonical_url: null
 id: null
 ---
 
-# Hi there!
+Imagine ...
 
-Some content and son on.
+# TL;DR
+
+[GoDebocker](https://github.com/thlcodes/godebocker) provides an easy setup to debug go apps within docker containers in VSCode.
+
+{% github thlcodes/godebocker %}
+
+# Run a debuggable go app in a docker container
+
+# Start that container parametrized
+
+# Connect VSCode debugger
+
+# Where to go from here
